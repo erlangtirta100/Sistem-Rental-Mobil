@@ -242,6 +242,7 @@ NIM : 24131310037
 Jurusan : Teknologi Informasi
 Universitas : Universitas Tangerang Raya
 
-Link Ebook :
+Link Ebook : 
+https://ebook.webiot.id/ebooks/panduan-praktis-implementasi-oop-sistem-penyewaan-mobil
 
 ---
